@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#181818"
     tools:context=".Menu">
 
     <LinearLayout
@@ -21,9 +22,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:gravity="center"
-            android:text="Menu"
+            android:text="MENU"
             android:textAllCaps="false"
-            android:textColor="@android:color/holo_blue_dark"
+            android:textColor="#5CB8E4"
             android:textSize="50sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -44,7 +45,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="20dp"
-            android:background="@android:color/holo_green_dark"
+            android:background="#8758FF"
             android:gravity="center"
             android:orientation="horizontal">
 
@@ -73,7 +74,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="20dp"
-            android:background="@android:color/holo_green_light"
+            android:background="#8758FF"
             android:gravity="center"
             android:orientation="horizontal">
 
@@ -102,7 +103,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="20dp"
-            android:background="@android:color/holo_orange_dark"
+            android:background="#8758FF"
             android:gravity="center"
             android:orientation="horizontal">
 
@@ -131,7 +132,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="20dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="#8758FF"
             android:gravity="center"
             android:orientation="horizontal">
 
